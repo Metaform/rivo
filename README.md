@@ -1,1 +1,1 @@
-# rivo
+![Rivo](/assets/rivo.logo.svg)
