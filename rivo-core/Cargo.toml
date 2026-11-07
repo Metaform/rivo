@@ -1,0 +1,14 @@
+[package]
+name = "rivo-core"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+description = "The model, services, processors, and dispatcher of Rivo, with no database or transport"
+publish = false
+
+[dependencies]
+
+[lints]
+workspace = true
